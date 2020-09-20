@@ -865,6 +865,7 @@ h1, h2, h3, h4, h5,
 
 .service {
   padding: 4rem;
+  height: 520px;
   background: #fff; }
   @media (max-width: 991.98px) {
     .service {
